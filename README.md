@@ -7,7 +7,7 @@
 
 ---
 
-📧 **E-mail:** [johnlenon@gmail.com](mailto:johnlenon8919@gmail.com)  
+📧 **E-mail:** [johnlenon8919@gmail.com](mailto:johnlenon8919@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/johnlenon](https://www.linkedin.com/in/analistafinanceiro-powerbi/)  
 🐙 **GitHub:** [github.com/johnlenon](https://github.com/Johnsantos1989)  
 
