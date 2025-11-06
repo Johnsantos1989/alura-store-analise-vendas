@@ -7,6 +7,12 @@
 
 ---
 
+📧 **E-mail:** [johnlenon@gmail.com](mailto:johnlenon@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/johnlenon](https://www.linkedin.com/in/johnlenon)  
+🐙 **GitHub:** [github.com/johnlenon](https://github.com/johnlenon)  
+
+---
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Viz-brightgreen)
